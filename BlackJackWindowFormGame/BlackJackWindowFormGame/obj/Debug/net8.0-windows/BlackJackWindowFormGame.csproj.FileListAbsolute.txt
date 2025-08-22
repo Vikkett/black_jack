@@ -1,0 +1,34 @@
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.Form1.resources
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.csproj.GenerateResource.cache
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.AssemblyInfoInputs.cache
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.AssemblyInfo.cs
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.csproj.CoreCompileInputs.cache
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.exe
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.deps.json
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.runtimeconfig.json
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.dll
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.pdb
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.dll
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\refint\BlackJackWindowFormGame.dll
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.pdb
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.genruntimeconfig.cache
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\ref\BlackJackWindowFormGame.dll
+C:\Users\vikvarennyk\Desktop\21 Black Jack\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.Properties.Resources.resources
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.exe
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.deps.json
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.runtimeconfig.json
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.dll
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\bin\Debug\net8.0-windows\BlackJackWindowFormGame.pdb
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.Form1.resources
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.Properties.Resources.resources
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.csproj.GenerateResource.cache
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.AssemblyInfoInputs.cache
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.AssemblyInfo.cs
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.csproj.CoreCompileInputs.cache
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.dll
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\refint\BlackJackWindowFormGame.dll
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.pdb
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.genruntimeconfig.cache
+E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\ref\BlackJackWindowFormGame.dll
