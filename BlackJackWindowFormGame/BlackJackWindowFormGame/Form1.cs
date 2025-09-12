@@ -129,6 +129,25 @@ namespace BlackJackWindowFormGame
             return card;
         }
 
+        // Retourne la valeur d’une carte (2–10 = valeur numérique, J/Q/K = 10, A = 11)
+        private int getValue(string card)
+        {
+            // Extrait juste la valeur sans le type (ex: "A-S" → "A")
+            string value = card.Split('-')[0];
+
+            if (value == "A") return 11;
+            if (value == "K" || value == "Q" || value == "J") return 10;
+            return int.Parse(value); // pour "2" à "10"
+        }
+
+        // Retourne 1 si la carte est un As, sinon 0
+        private int checkACE(string card)
+        {
+            string value = card.Split('-')[0];
+            return value == "A" ? 1 : 0;
+        }
+
+
         // Fonction qui démarre une partie
         private void StartGame()
         {
