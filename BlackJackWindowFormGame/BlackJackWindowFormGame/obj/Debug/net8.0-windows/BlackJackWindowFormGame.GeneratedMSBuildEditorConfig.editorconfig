@@ -14,9 +14,13 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlackJackWindowFormGame
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
+=======
+build_property.ProjectDir = /Users/vikavarennyk/Projects/black_jack/BlackJackWindowFormGame/BlackJackWindowFormGame/
+>>>>>>> 4d40855d8d1e5e376584551fc89fa28b3a07dd52
