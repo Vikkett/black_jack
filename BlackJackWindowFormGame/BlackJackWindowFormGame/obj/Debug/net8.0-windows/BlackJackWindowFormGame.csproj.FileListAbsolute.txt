@@ -32,3 +32,14 @@ E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFor
 E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.pdb
 E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.genruntimeconfig.cache
 E:\ETML\info-avecLoïc\Blackjack_game\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\ref\BlackJackWindowFormGame.dll
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.Form1.resources
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.Properties.Resources.resources
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.csproj.GenerateResource.cache
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.AssemblyInfoInputs.cache
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.AssemblyInfo.cs
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.csproj.CoreCompileInputs.cache
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.sourcelink.json
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.dll
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\refint\BlackJackWindowFormGame.dll
+C:\Users\px75qgn\Desktop\second year\projetPO\BlackJackWindowFormGame\BlackJackWindowFormGame\obj\Debug\net8.0-windows\BlackJackWindowFormGame.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ETML\\info-avecLoïc\\Blackjack_game\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj": {}
+    "C:\\Users\\px75qgn\\Desktop\\second year\\projetPO\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj": {}
   },
   "projects": {
-    "E:\\ETML\\info-avecLoïc\\Blackjack_game\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj": {
+    "C:\\Users\\px75qgn\\Desktop\\second year\\projetPO\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ETML\\info-avecLoïc\\Blackjack_game\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj",
+        "projectUniqueName": "C:\\Users\\px75qgn\\Desktop\\second year\\projetPO\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj",
         "projectName": "BlackJackWindowFormGame",
-        "projectPath": "E:\\ETML\\info-avecLoïc\\Blackjack_game\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj",
+        "projectPath": "C:\\Users\\px75qgn\\Desktop\\second year\\projetPO\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\BlackJackWindowFormGame.csproj",
         "packagesPath": "C:\\Users\\px75qgn\\.nuget\\packages\\",
-        "outputPath": "E:\\ETML\\info-avecLoïc\\Blackjack_game\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\obj\\",
+        "outputPath": "C:\\Users\\px75qgn\\Desktop\\second year\\projetPO\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

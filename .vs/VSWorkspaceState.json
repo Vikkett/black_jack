@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlackJackWindowFormGame",
+    "\\BlackJackWindowFormGame\\BlackJackWindowFormGame"
   ],
+  "SelectedNode": "\\BlackJackWindowFormGame\\BlackJackWindowFormGame\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
